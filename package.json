@@ -1,0 +1,23 @@
+{
+  "name": "@dalitek/reset-css",
+  "version": "0.0.1",
+  "description": "",
+  "main": "reset.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhagqn/reset-css.git"
+  },
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "author": "zhagqn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhagqn/reset-css/issues"
+  },
+  "homepage": "https://github.com/zhagqn/reset-css#readme"
+}
